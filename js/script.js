@@ -3,8 +3,9 @@ console.log('Vue ok', Vue);
 const app = new Vue({
     el: '#root',
     data: {
-        name: 'Giulio',
-        lastName: 'Spugnini',
-        age: '25',
+        name: 'Hasbulla',
+        lastName: 'Magomedov',
+        age: '20',
+        avatar: 'https://staticfanpage.akamaized.net/wp-content/uploads/sites/6/2021/06/hasbulla-3-768x432.jpg',
     }
 });
